@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\projects\\demo\\fasttext\\app\\runs\\1551149033\\checkpoints\\model-9700"
+all_model_checkpoint_paths: "E:\\projects\\demo\\fasttext\\app\\runs\\1551149033\\checkpoints\\model-9300"
+all_model_checkpoint_paths: "E:\\projects\\demo\\fasttext\\app\\runs\\1551149033\\checkpoints\\model-9400"
+all_model_checkpoint_paths: "E:\\projects\\demo\\fasttext\\app\\runs\\1551149033\\checkpoints\\model-9500"
+all_model_checkpoint_paths: "E:\\projects\\demo\\fasttext\\app\\runs\\1551149033\\checkpoints\\model-9600"
+all_model_checkpoint_paths: "E:\\projects\\demo\\fasttext\\app\\runs\\1551149033\\checkpoints\\model-9700"
