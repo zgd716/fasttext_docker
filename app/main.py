@@ -48,7 +48,6 @@ def classification():
     :return:
     '''
     try:
-        start_time=datetime.datetime.now()
         if request.mimetype=='application/json':  #json
             forms = request.json
         elif request.mimetype=='multipart/form-data' or request.mimetype=='application/x-www-form-urlencoded': #form
@@ -65,9 +64,6 @@ def classification():
     except Exception as ex:
         app.logger.error(ex)
         return jsonify({'msg':False})
-
-
-
 
 if __name__=='__main__':
     app.run(host='0.0.0.0', debug=False, port=80)
